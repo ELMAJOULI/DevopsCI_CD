@@ -12,7 +12,7 @@ namespace DevopsAsp.ORM
         public  DbSet<Movie> Movies { get; set; }
         public DbSet<Genre> Genres { get; set; }
 
-        public MovieStoreContext() :base("Data Source=AK-107\\SQLEXPRESS;Initial Catalog=MovieStore;Integrated Security=True")
+        public MovieStoreContext() :base("Server=tcp:devopunittest.database.windows.net,1433;Initial Catalog=MovieStore;Persist Security Info=False;User ID=moviestore;Password=Mrabdelwahed1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;")
         {
             
         }

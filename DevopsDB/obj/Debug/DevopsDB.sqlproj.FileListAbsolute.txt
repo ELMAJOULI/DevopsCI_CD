@@ -1,6 +1,0 @@
-C:\Users\abdel\source\repos\Devops\DevopsDB\bin\Debug\DevopsDB.dacpac
-C:\Users\abdel\source\repos\Devops\DevopsDB\bin\Debug\DevopsDB.dll
-C:\Users\abdel\source\repos\Devops\DevopsDB\bin\Debug\DevopsDB.pdb
-C:\Users\abdel\source\repos\Devops\DevopsDB\obj\Debug\DevopsDB.sqlprojAssemblyReference.cache
-C:\Users\abdel\source\repos\Devops\DevopsDB\obj\Debug\DevopsDB.dll
-C:\Users\abdel\source\repos\Devops\DevopsDB\obj\Debug\DevopsDB.pdb

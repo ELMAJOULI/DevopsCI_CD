@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1022
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DevopsDB", "DevopsDB\DevopsDB.sqlproj", "{345E97D0-6CEB-42CC-B8F2-442E08140A30}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevopsAsp", "DevopsAsp\DevopsAsp.csproj", "{AEC9F8BC-7B4D-4653-88ED-34C4D785D6D8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevopsAsp.Tests", "DevopsAsp.Tests\DevopsAsp.Tests.csproj", "{BFCDD55C-DC14-4676-82AD-D47C39208F51}"
@@ -15,12 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{345E97D0-6CEB-42CC-B8F2-442E08140A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{345E97D0-6CEB-42CC-B8F2-442E08140A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{345E97D0-6CEB-42CC-B8F2-442E08140A30}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{345E97D0-6CEB-42CC-B8F2-442E08140A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{345E97D0-6CEB-42CC-B8F2-442E08140A30}.Release|Any CPU.Build.0 = Release|Any CPU
-		{345E97D0-6CEB-42CC-B8F2-442E08140A30}.Release|Any CPU.Deploy.0 = Release|Any CPU
 		{AEC9F8BC-7B4D-4653-88ED-34C4D785D6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AEC9F8BC-7B4D-4653-88ED-34C4D785D6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEC9F8BC-7B4D-4653-88ED-34C4D785D6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU

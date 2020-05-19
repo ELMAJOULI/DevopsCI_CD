@@ -72,3 +72,4 @@ C:\Users\abdel\source\repos\Devops\DevopsAsp\obj\Debug\DevopsAsp.csproj.CoreComp
 C:\Users\abdel\source\repos\Devops\DevopsAsp\obj\Debug\DevopsAsp.csproj.CopyComplete
 C:\Users\abdel\source\repos\Devops\DevopsAsp\obj\Debug\DevopsAsp.dll
 C:\Users\abdel\source\repos\Devops\DevopsAsp\obj\Debug\DevopsAsp.pdb
+C:\Users\abdel\source\repos\Devops\DevopsAsp\obj\Debug\DevopsAsp.csprojAssemblyReference.cache
